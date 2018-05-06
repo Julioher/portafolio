@@ -23,7 +23,7 @@
           <div class="row center-xs">
             <div class="col-xs">
               <nav>
-                <a href="Cómputo_1/">Cómputo 1</a>
+                <a href="Cómputo_1/index.html">Cómputo 1</a>
                 <a href="Cómputo_2/">Cómputo 2</a>
               </nav>
             </div>
@@ -36,35 +36,35 @@
       <div class="container">
         <div class="row around-xs">
           <div class="thumb col-xs-6 col-sm-4 col-md-3 ">
-           <a href="Cómputo_1/práctica_1JulioHerWebYComercioElectrónico/">
+           <a href="Cómputo_1/Práctica_1JulioHerWebYComercioElectrónico/index.html">
               <img src="https://thumbs.gfycat.com/PaleGargantuanCooter-size_restricted.gif" alt="">
             </a>
              <figcaption>Práctica 1</figcaption>
           </div>
 
           <div class="thumb col-xs-6 col-sm-4 col-md-3 ">
-            <a href="Cómputo_1/práctica_2JulioHerWebYComercioElectrónico/">
+            <a href="Cómputo_1/Práctica_2JulioHerWebYComercioElectrónico/index.html">
               <img src="https://thumbs.gfycat.com/PaleGargantuanCooter-size_restricted.gif" alt="">
             </a>
             <figcaption>Práctica 2</figcaption>
           </div>
 
           <div class="thumb col-xs-6 col-sm-4 col-md-3 ">
-            <a href="Cómputo_1/práctica_3JulioHerWebYComercioElectrónico/">
+            <a href="Cómputo_1/Práctica_3JulioHerWebYComercioElectrónico/index.html">
               <img src="https://thumbs.gfycat.com/PaleGargantuanCooter-size_restricted.gif" alt="">
             </a>
             <figcaption>Práctica 3</figcaption>
           </div>
 
           <div class="thumb col-xs-6 col-sm-4 col-md-3 ">
-            <a href="Cómputo_1/práctica_4JulioHerWebYComercioElectrónico/">
+            <a href="Cómputo_1/Práctica_4JulioHerWebYComercioElectrónico/index.html">
               <img src="https://thumbs.gfycat.com/PaleGargantuanCooter-size_restricted.gif" alt="">
             </a>
             <figcaption>Práctica 4</figcaption>
           </div>
 
           <div class="thumb col-xs-6 col-sm-4 col-md-3 ">
-            <a href="Cómputo_1/Parcial_Julio_Hernández/">
+            <a href="Cómputo_1/Parcial_Julio_Hernández/index.html">
             <img src="https://thumbs.gfycat.com/PaleGargantuanCooter-size_restricted.gif" alt=""></a>
             <figcaption>Parcial 1</figcaption>
           </div>
@@ -98,10 +98,10 @@
         <div class="row middle-xs between-xs">
           <div class="col-xs-12 col-sm-4">
             <div class="nav">
-              <a href="Cómputo_1/práctica_1JulioHerWebYComercioElectrónico/">Práctica 1</a>
-              <a href="Cómputo_1/práctica_2JulioHerWebYComercioElectrónico/">Práctica 2</a>
-              <a href="Cómputo_1/práctica_3JulioHerWebYComercioElectrónico/">Práctica 3</a>
-              <a href="Cómputo_1/práctica_4JulioHerWebYComercioElectrónico/">Práctica 4</a>
+              <a href="Cómputo_1/Práctica_1JulioHerWebYComercioElectrónico/">Práctica 1</a>
+              <a href="Cómputo_1/Práctica_2JulioHerWebYComercioElectrónico/">Práctica 2</a>
+              <a href="Cómputo_1/Práctica_3JulioHerWebYComercioElectrónico/">Práctica 3</a>
+              <a href="Cómputo_1/Práctica_4JulioHerWebYComercioElectrónico/">Práctica 4</a>
               <a href="Cómputo_1/Parcial_Julio_Hernández/">Parcial 1</a>
               <a href="Cómputo_2/PrácticaHTML5_Julio_Hernández/">Práctica HTML5</a>
 
