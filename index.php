@@ -98,10 +98,10 @@
         <div class="row middle-xs between-xs">
           <div class="col-xs-12 col-sm-4">
             <div class="nav">
-              <a href="Cómputo_1/Práctica_1JulioHerWebYComercioElectrónico/">Práctica 1</a>
-              <a href="Cómputo_1/Práctica_2JulioHerWebYComercioElectrónico/">Práctica 2</a>
-              <a href="Cómputo_1/Práctica_3JulioHerWebYComercioElectrónico/">Práctica 3</a>
-              <a href="Cómputo_1/Práctica_4JulioHerWebYComercioElectrónico/">Práctica 4</a>
+              <a href="Cómputo_1/Práctica_1JulioHerWebYComercioElectrónico/index.html">Práctica 1</a>
+              <a href="Cómputo_1/Práctica_2JulioHerWebYComercioElectrónico/index.html">Práctica 2</a>
+              <a href="Cómputo_1/Práctica_3JulioHerWebYComercioElectrónico/index.html">Práctica 3</a>
+              <a href="Cómputo_1/Práctica_4JulioHerWebYComercioElectrónico/index.html">Práctica 4</a>
               <a href="Cómputo_1/Parcial_Julio_Hernández/">Parcial 1</a>
               <a href="Cómputo_2/PrácticaHTML5_Julio_Hernández/">Práctica HTML5</a>
 
